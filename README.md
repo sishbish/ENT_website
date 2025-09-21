@@ -47,7 +47,7 @@ project-root/
    ```
    *(The dynamic features will not work since the MySQL backend is private.)*
 
-![Alt text](ENT_website/images/Screenshot 2025-09-21 at 21.11.51.png)
+![Alt text](ENT_website/images/main_page1.png)
 
 ## Features
 - Clinic profiles  
