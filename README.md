@@ -49,10 +49,12 @@ project-root/
 
 <img src="images/main_page1.png" alt="front page" width="400">
 <img src="images/consultants1.png" alt="consultants page" width="400">
-<img src="images/clinics1.png" alt="clinics page" width="500">
+<img src="images/clinics1.png" alt="clinics page" width="400">
+<img src="images/calendar.png" alt="calendar" width="400">
 
 ## Features
-- Clinic profiles  
+- Clinic profiles
+- Clinics location displayed using Google Maps 
 - Consultant information  
 - Scheduling system  
 - Results display (non-functional without database)  
