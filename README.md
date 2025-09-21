@@ -47,7 +47,7 @@ project-root/
    ```
    *(The dynamic features will not work since the MySQL backend is private.)*
 
-![Alt text](images/main_page1.png)
+<img src="images/main_page1.png" alt="Screenshot" width="500">
 
 ## Features
 - Clinic profiles  
